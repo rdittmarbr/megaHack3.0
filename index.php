@@ -164,11 +164,11 @@
             <header id="book-header">
                 <nav>
                     <ul>
-                        <li id="book-header-select" class="inline"><a href="#"><img src="img/open.png" alt="Abrir"></img></a></li>
-                        <li id="book-header-text" class="inline"><a href="#"><img src="img/save.png" alt="Salvar"></img></a></li>
-                        <li id="book-header-video" class="inline"><a href="#"><img src="img/view.png" alt="Visualizar"></img></a></li>
+                        <li id="book-header-select" class="inline"><a href="#"><img src="img/open.svg" alt="Abrir"></img></a></li>
+                        <li id="book-header-text" class="inline"><a href="#"><img src="img/save.svg" alt="Salvar"></img></a></li>
+                        <li id="book-header-video" class="inline"><a href="#"><img src="img/view.svg" alt="Visualizar"></img></a></li>
                         <li id="book-header-capa" class="inline"><img src="img/divisao.png" alt="separador"></img></li>
-                        <li id="book-header-capa" class="inline"><a href="#"><img src="img/capa.png" alt="Capa"></img></a></li>
+                        <li id="book-header-capa" class="inline"><a href="#"><img src="img/capa.svg" alt="Capa"></img></a></li>
                     </ul>
                 </nav>
             </header>
@@ -177,12 +177,41 @@
             <div id="book-bar" width="50px">
                 <nav>
                     <ul>
-                        <li id="book-bar-select"><a href="#"><img src="img/pointer.png" alt="Selecionar"></img></a></li>
-                        <li id="book-bar-text">Texto</li>
-                        <li id="book-bar-video">Vídeo</li>
-                        <li id="book-bar-memoryGame">Jogo da Memória</li>
-                        <li id="book-bar-select"></li>
-                        <li id="book-bar-select"></li>
+                    <style>
+                    .book-button {
+                        width:45px;
+                        height:45px;
+                    justify-content: space-between;
+                    align-items: center;
+                    text-align: center;
+                    color: #53656F;
+                    border: none;
+                    border-radius: 3px;
+                    background-color: #DFE5E9;
+                    cursor: pointer;
+                    padding: 5px;}
+                    .book-button:hover{
+                        background-color: #53656F;
+                    }
+                    #book-bar-video{
+                        background-image:"img/video.svg" ;
+                    }
+                    #book-bar-select{
+                        background-image:"img/pointer.png" ;
+                    }
+                    #book-bar-html5{
+                        background-image:"img/html5.svg" ;
+                    }                    
+                    #book-bar-more{
+                        background-image:"img/more.svg" ;
+                    }
+                    </style>
+                        <li id="book-bar-select" class="book-button "><a href="#"></a></li>
+                        <li id="book-bar-text" class="book-button "><a href="#"></a></li>
+                        <li id="book-bar-video" class="book-button"><a href="#"></a></li>
+                        <li id="book-bar-memoryGame" class="book-button"><a href="#"></a></li>
+                        <li id="book-bar-html5" class="book-button"><a href="#"></a></li>
+                        <li id="book-bar-more" class="book-button"><a href="#"></a></li>
                     </ul>
                 </nav>
                 <nav>
