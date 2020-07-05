@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="bookid">urn:uuid:09967E51-8389-41F2-83B2-F46737536FF8</dc:identifier>
+        <dc:title>Esaú e Jacó</dc:title>
+        <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut">Machado de Assis</dc:creator>
+        <dc:language>pt</dc:language>
+        <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="">2015-09-11</dc:date>
+        <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="Esaú e Jacó é, originalmente, um conto bíblico que inspirou a obra de Machado de Assis. O direito ao trono que, preferencialmente seria do filho primogênito, Esaú, é o pontapé inicial da trama. Porém, a preferência por Jacó faz com que a mãe dos dois engane seu marido já velho fazendo seu herdeiro escolhido se passar por seu irmão. Com isso um grande conflito entre os dois irmãos se estabelece. O autor deixa bem claro o papel centralizador da mãe, maior articuladora da história.">2015-09-11</dc:date>
+        <meta content="Adobe InDesign" name="generator"/>
+        <meta name="cover" content="x0267.jpg"/>
+        <meta content="0.6.2" name="Sigil version"/>
+        <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-09-11</dc:date>
+    </metadata>
+    <manifest>
+        <item href="Text/0267.xhtml" id="x0267" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-1.xhtml" id="x0267-1" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-2.xhtml" id="x0267-2" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-3.xhtml" id="x0267-3" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-4.xhtml" id="x0267-4" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-5.xhtml" id="x0267-5" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-6.xhtml" id="x0267-6" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-7.xhtml" id="x0267-7" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-8.xhtml" id="x0267-8" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-9.xhtml" id="x0267-9" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-10.xhtml" id="x0267-10" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-11.xhtml" id="x0267-11" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-12.xhtml" id="x0267-12" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-13.xhtml" id="x0267-13" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-14.xhtml" id="x0267-14" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-15.xhtml" id="x0267-15" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-16.xhtml" id="x0267-16" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-17.xhtml" id="x0267-17" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-18.xhtml" id="x0267-18" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-19.xhtml" id="x0267-19" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-20.xhtml" id="x0267-20" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-21.xhtml" id="x0267-21" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-22.xhtml" id="x0267-22" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-23.xhtml" id="x0267-23" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-24.xhtml" id="x0267-24" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-25.xhtml" id="x0267-25" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-26.xhtml" id="x0267-26" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-27.xhtml" id="x0267-27" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-28.xhtml" id="x0267-28" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-29.xhtml" id="x0267-29" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-30.xhtml" id="x0267-30" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-31.xhtml" id="x0267-31" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-32.xhtml" id="x0267-32" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-33.xhtml" id="x0267-33" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-34.xhtml" id="x0267-34" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-35.xhtml" id="x0267-35" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-36.xhtml" id="x0267-36" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-37.xhtml" id="x0267-37" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-38.xhtml" id="x0267-38" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-39.xhtml" id="x0267-39" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-40.xhtml" id="x0267-40" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-41.xhtml" id="x0267-41" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-42.xhtml" id="x0267-42" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-43.xhtml" id="x0267-43" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-44.xhtml" id="x0267-44" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-45.xhtml" id="x0267-45" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-46.xhtml" id="x0267-46" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-47.xhtml" id="x0267-47" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-48.xhtml" id="x0267-48" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-49.xhtml" id="x0267-49" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-50.xhtml" id="x0267-50" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-51.xhtml" id="x0267-51" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-52.xhtml" id="x0267-52" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-53.xhtml" id="x0267-53" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-54.xhtml" id="x0267-54" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-55.xhtml" id="x0267-55" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-56.xhtml" id="x0267-56" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-57.xhtml" id="x0267-57" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-58.xhtml" id="x0267-58" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-59.xhtml" id="x0267-59" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-60.xhtml" id="x0267-60" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-61.xhtml" id="x0267-61" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-62.xhtml" id="x0267-62" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-63.xhtml" id="x0267-63" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-64.xhtml" id="x0267-64" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-65.xhtml" id="x0267-65" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-66.xhtml" id="x0267-66" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-67.xhtml" id="x0267-67" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-68.xhtml" id="x0267-68" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-69.xhtml" id="x0267-69" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-70.xhtml" id="x0267-70" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-71.xhtml" id="x0267-71" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-72.xhtml" id="x0267-72" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-73.xhtml" id="x0267-73" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-74.xhtml" id="x0267-74" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-75.xhtml" id="x0267-75" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-76.xhtml" id="x0267-76" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-77.xhtml" id="x0267-77" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-78.xhtml" id="x0267-78" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-79.xhtml" id="x0267-79" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-80.xhtml" id="x0267-80" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-81.xhtml" id="x0267-81" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-82.xhtml" id="x0267-82" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-83.xhtml" id="x0267-83" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-84.xhtml" id="x0267-84" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-85.xhtml" id="x0267-85" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-86.xhtml" id="x0267-86" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-87.xhtml" id="x0267-87" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-88.xhtml" id="x0267-88" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-89.xhtml" id="x0267-89" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-90.xhtml" id="x0267-90" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-91.xhtml" id="x0267-91" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-92.xhtml" id="x0267-92" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-93.xhtml" id="x0267-93" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-94.xhtml" id="x0267-94" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-95.xhtml" id="x0267-95" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-96.xhtml" id="x0267-96" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-97.xhtml" id="x0267-97" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-98.xhtml" id="x0267-98" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-99.xhtml" id="x0267-99" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-100.xhtml" id="x0267-100" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-101.xhtml" id="x0267-101" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-102.xhtml" id="x0267-102" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-103.xhtml" id="x0267-103" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-104.xhtml" id="x0267-104" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-105.xhtml" id="x0267-105" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-106.xhtml" id="x0267-106" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-107.xhtml" id="x0267-107" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-108.xhtml" id="x0267-108" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-109.xhtml" id="x0267-109" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-110.xhtml" id="x0267-110" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-111.xhtml" id="x0267-111" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-112.xhtml" id="x0267-112" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-113.xhtml" id="x0267-113" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-114.xhtml" id="x0267-114" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-115.xhtml" id="x0267-115" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-116.xhtml" id="x0267-116" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-117.xhtml" id="x0267-117" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-118.xhtml" id="x0267-118" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-119.xhtml" id="x0267-119" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-120.xhtml" id="x0267-120" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-121.xhtml" id="x0267-121" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-122.xhtml" id="x0267-122" media-type="application/xhtml+xml"/>
+        <item href="Text/0267-123.xhtml" id="x0267-123" media-type="application/xhtml+xml"/>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="Styles/0267.css" id="x0267.css" media-type="text/css"/>
+        <item href="Fonts/Georgia-Bold.ttf" id="Georgia-Bold.ttf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/Georgia-Italic.ttf" id="Georgia-Italic.ttf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/Georgia.ttf" id="Georgia.ttf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/Optima-Bold.ttc" id="Optima-Bold.ttc" media-type="application/x-font-ttf"/>
+        <item href="Text/capa.xhtml" id="capa.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Styles/capa.css" id="capa.css" media-type="text/css"/>
+        <item href="Images/0267.jpg" id="x0267.jpg" media-type="image/jpeg"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="capa.xhtml"/>
+        <itemref idref="x0267"/>
+        <itemref idref="x0267-1"/>
+        <itemref idref="x0267-2"/>
+        <itemref idref="x0267-3"/>
+        <itemref idref="x0267-4"/>
+        <itemref idref="x0267-5"/>
+        <itemref idref="x0267-6"/>
+        <itemref idref="x0267-7"/>
+        <itemref idref="x0267-8"/>
+        <itemref idref="x0267-9"/>
+        <itemref idref="x0267-10"/>
+        <itemref idref="x0267-11"/>
+        <itemref idref="x0267-12"/>
+        <itemref idref="x0267-13"/>
+        <itemref idref="x0267-14"/>
+        <itemref idref="x0267-15"/>
+        <itemref idref="x0267-16"/>
+        <itemref idref="x0267-17"/>
+        <itemref idref="x0267-18"/>
+        <itemref idref="x0267-19"/>
+        <itemref idref="x0267-20"/>
+        <itemref idref="x0267-21"/>
+        <itemref idref="x0267-22"/>
+        <itemref idref="x0267-23"/>
+        <itemref idref="x0267-24"/>
+        <itemref idref="x0267-25"/>
+        <itemref idref="x0267-26"/>
+        <itemref idref="x0267-27"/>
+        <itemref idref="x0267-28"/>
+        <itemref idref="x0267-29"/>
+        <itemref idref="x0267-30"/>
+        <itemref idref="x0267-31"/>
+        <itemref idref="x0267-32"/>
+        <itemref idref="x0267-33"/>
+        <itemref idref="x0267-34"/>
+        <itemref idref="x0267-35"/>
+        <itemref idref="x0267-36"/>
+        <itemref idref="x0267-37"/>
+        <itemref idref="x0267-38"/>
+        <itemref idref="x0267-39"/>
+        <itemref idref="x0267-40"/>
+        <itemref idref="x0267-41"/>
+        <itemref idref="x0267-42"/>
+        <itemref idref="x0267-43"/>
+        <itemref idref="x0267-44"/>
+        <itemref idref="x0267-45"/>
+        <itemref idref="x0267-46"/>
+        <itemref idref="x0267-47"/>
+        <itemref idref="x0267-48"/>
+        <itemref idref="x0267-49"/>
+        <itemref idref="x0267-50"/>
+        <itemref idref="x0267-51"/>
+        <itemref idref="x0267-52"/>
+        <itemref idref="x0267-53"/>
+        <itemref idref="x0267-54"/>
+        <itemref idref="x0267-55"/>
+        <itemref idref="x0267-56"/>
+        <itemref idref="x0267-57"/>
+        <itemref idref="x0267-58"/>
+        <itemref idref="x0267-59"/>
+        <itemref idref="x0267-60"/>
+        <itemref idref="x0267-61"/>
+        <itemref idref="x0267-62"/>
+        <itemref idref="x0267-63"/>
+        <itemref idref="x0267-64"/>
+        <itemref idref="x0267-65"/>
+        <itemref idref="x0267-66"/>
+        <itemref idref="x0267-67"/>
+        <itemref idref="x0267-68"/>
+        <itemref idref="x0267-69"/>
+        <itemref idref="x0267-70"/>
+        <itemref idref="x0267-71"/>
+        <itemref idref="x0267-72"/>
+        <itemref idref="x0267-73"/>
+        <itemref idref="x0267-74"/>
+        <itemref idref="x0267-75"/>
+        <itemref idref="x0267-76"/>
+        <itemref idref="x0267-77"/>
+        <itemref idref="x0267-78"/>
+        <itemref idref="x0267-79"/>
+        <itemref idref="x0267-80"/>
+        <itemref idref="x0267-81"/>
+        <itemref idref="x0267-82"/>
+        <itemref idref="x0267-83"/>
+        <itemref idref="x0267-84"/>
+        <itemref idref="x0267-85"/>
+        <itemref idref="x0267-86"/>
+        <itemref idref="x0267-87"/>
+        <itemref idref="x0267-88"/>
+        <itemref idref="x0267-89"/>
+        <itemref idref="x0267-90"/>
+        <itemref idref="x0267-91"/>
+        <itemref idref="x0267-92"/>
+        <itemref idref="x0267-93"/>
+        <itemref idref="x0267-94"/>
+        <itemref idref="x0267-95"/>
+        <itemref idref="x0267-96"/>
+        <itemref idref="x0267-97"/>
+        <itemref idref="x0267-98"/>
+        <itemref idref="x0267-99"/>
+        <itemref idref="x0267-100"/>
+        <itemref idref="x0267-101"/>
+        <itemref idref="x0267-102"/>
+        <itemref idref="x0267-103"/>
+        <itemref idref="x0267-104"/>
+        <itemref idref="x0267-105"/>
+        <itemref idref="x0267-106"/>
+        <itemref idref="x0267-107"/>
+        <itemref idref="x0267-108"/>
+        <itemref idref="x0267-109"/>
+        <itemref idref="x0267-110"/>
+        <itemref idref="x0267-111"/>
+        <itemref idref="x0267-112"/>
+        <itemref idref="x0267-113"/>
+        <itemref idref="x0267-114"/>
+        <itemref idref="x0267-115"/>
+        <itemref idref="x0267-116"/>
+        <itemref idref="x0267-117"/>
+        <itemref idref="x0267-118"/>
+        <itemref idref="x0267-119"/>
+        <itemref idref="x0267-120"/>
+        <itemref idref="x0267-121"/>
+        <itemref idref="x0267-122"/>
+        <itemref idref="x0267-123"/>
+    </spine>
+    <guide>
+        <reference href="Text/capa.xhtml" title="Capa" type="cover"/>
+    </guide>
+</package>

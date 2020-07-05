@@ -8,6 +8,8 @@
     <meta charset="utf-8">
     <title>Árvore de Livros</title>
     <link rel="stylesheet" href="css.css">
+    <link rel="stylesheet" href="arvore.css">
+    <link rel="stylesheet" href="edit.css">
 </head>
 
 <body>
@@ -17,7 +19,7 @@
                 location.reload();
             }
 
-            var i = setTimeout(b, 4000);
+            //var i = setTimeout(b, 4000);
         </script>
         <div class="flyjer-0-Headerstyles__Header-DDStu bkyhEj">
             <!-- <img src="https://s3.amazonaws.com/arvore/plataforma/logo/logo_arvore.svg" class="Headerstyles__StyledLogo-flyjer-1 gdSusf" color="#ffffff" alt="Árvore de Livros"> -->
@@ -95,80 +97,15 @@
                     text-decoration: none;
                     display: inline-block;
                 }
-
-                .dyvYzY {
-                    width: 62.5%;
-                }
-
-                .dNCvvm {
-                    display: -webkit-box;
-                    display: -webkit-flex;
-                    display: -ms-flexbox;
-                    display: flex;
-                    width: 100%;
-                    margin-top: 8px;
-                }
-
-                .dNCvvm>button {
-                    -webkit-box-pack: center;
-                    justify-content: center;
-                    text-transform: none;
-                    margin-right: 8px;
-                }
-
-                .KIzvT {
-                    position: relative;
-                    display: -webkit-inline-box;
-                    display: -webkit-inline-flex;
-                    display: -ms-inline-flexbox;
-                    display: inline-flex;
-                    justify-content: space-between;
-                    align-items: center;
-                    width: auto;
-                    text-transform: uppercase;
-                    text-align: center;
-                    color: #53656F;
-                    border: none;
-                    border-radius: 3px;
-                    background-color: #DFE5E9;
-                    padding: 1em 2em;
-                    cursor: pointer;
-                    transition: background-color 0.5s;
-                    outline: none;
-                    font-weight: 700;
-                    font-size: 13px;
-                    padding: 0 16px;
-                    font-size: 15px;
-                    height: 48px;
-                }.cdjRDn {
-    margin-bottom: 36px;
-}.bqpFBr {
-    color: #293841;
-    font-size: 16px;
-    margin: 0 8px 4px 0;
-}.kegJML {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 8px;
-}
-                .hfqPVj {
-    display: inline;
-    margin: 4px 8px 4px 0;
-    border-radius: 3px;
-    border: solid 1px #dfe5e9;
-    border: solid 1px #DFE5E9;
-    font-size: 15px;
-    padding: 8px;
-}
-</style>
+            </style>
             <header id="book-header">
                 <nav>
                     <ul>
-                        <li id="book-header-select" class="inline"><a href="#"><img src="img/open.svg" alt="Abrir"></img></a></li>
-                        <li id="book-header-text" class="inline"><a href="#"><img src="img/save.svg" alt="Salvar"></img></a></li>
-                        <li id="book-header-video" class="inline"><a href="#"><img src="img/view.svg" alt="Visualizar"></img></a></li>
-                        <li id="book-header-capa" class="inline"><img src="img/divisao.png" alt="separador"></img></li>
-                        <li id="book-header-capa" class="inline"><a href="#"><img src="img/capa.svg" alt="Capa"></img></a></li>
+                        <li id="book-header-open" class="inline"><a href="#"><img src="img/open.svg" alt="Abrir"></img></a></li>
+                        <li id="book-header-save" class="inline"><a href="#"><img src="img/save.svg" alt="Salvar"></img></a></li>
+                        <li id="book-header-view" class="inline"><a href="#"><img src="img/view.svg" alt="Visualizar"></img></a></li>
+                        <li id="book-header-separator" class="inline"><img src="img/divisao.png" alt="separador"></img></li>
+                        <li id="book-header-book" class="inline"><a href="#"><img src="img/capa.svg" alt="Capa"></img></a></li>
                     </ul>
                 </nav>
             </header>
@@ -176,48 +113,19 @@
             </div>
             <div id="book-bar" width="50px">
                 <nav>
-                    <ul>
-                    <style>
-                    .book-button {
-                        width:45px;
-                        height:45px;
-                    justify-content: space-between;
-                    align-items: center;
-                    text-align: center;
-                    color: #53656F;
-                    border: none;
-                    border-radius: 3px;
-                    background-color: #DFE5E9;
-                    cursor: pointer;
-                    padding: 5px;}
-                    .book-button:hover{
-                        background-color: #53656F;
-                    }
-                    #book-bar-video{
-                        background-image:"img/video.svg" ;
-                    }
-                    #book-bar-select{
-                        background-image:"img/pointer.png" ;
-                    }
-                    #book-bar-html5{
-                        background-image:"img/html5.svg" ;
-                    }                    
-                    #book-bar-more{
-                        background-image:"img/more.svg" ;
-                    }
-                    </style>
-                        <li id="book-bar-select" class="book-button "><a href="#"></a></li>
-                        <li id="book-bar-text" class="book-button "><a href="#"></a></li>
-                        <li id="book-bar-video" class="book-button"><a href="#"></a></li>
-                        <li id="book-bar-memoryGame" class="book-button"><a href="#"></a></li>
-                        <li id="book-bar-html5" class="book-button"><a href="#"></a></li>
-                        <li id="book-bar-more" class="book-button"><a href="#"></a></li>
+                    <ul class="book-bar">
+                        <li id="book-bar-select" class="book-button "><a href="#" title="Selecionar"></a></li>
+                        <li id="book-bar-text" class="book-button "><a href="#" title="Inserir Texto"></a></li>
+                        <li id="book-bar-video" class="book-button"><a href="#" title="Inserir Vídeo"></a></li>
+                        <li id="book-bar-memoryGame" class="book-button"><a href="#" title="Adicionar a Imagem ao Game de Memória"></a></li>
+                        <li id="book-bar-html5" class="book-button"><a href="#" title="Adicionar HTML5"></a></li>
+                        <li id="book-bar-more" class="book-button"><a href="#" title="Mais Opções"></a></li>
                     </ul>
                 </nav>
                 <nav>
                     <ul>
-                        <li id="book-bar-gamification">Gamificação</li>
-                        <li id="book-bar-option">Opções</li>
+                        <li id="book-bar-gamification" class="book-button"><a href="#" title="Gamificaçao"></a></li>
+                        <li id="book-bar-options" class="book-button"><a href="#" title="Opções"></a></li>
                     </ul>
                 </nav>
             </div>
