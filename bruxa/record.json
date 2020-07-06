@@ -1,0 +1,11 @@
+{
+	"ranking": [{
+			"nome": "Rodrigo",
+			"pontuacao": 3000
+		},
+		{
+			"nome": "Matheus",
+			"pontuacao": 2750
+		}
+	]
+}
